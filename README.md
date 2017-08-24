@@ -1,3 +1,6 @@
+![64 quokkas](samples/sample1.png "64 quokkas")
+![64 quokkas](samples/sample2.png "64 quokkas")
+
 More than recognization and detection, this CNN could read the analog watch!
 
 If you wanna use a classification CNN to read a watch, how many classes you will have? 12*60= 720!, not count the second hand.
