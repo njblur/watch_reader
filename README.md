@@ -1,5 +1,5 @@
-![64 quokkas](samples/sample1.png "64 quokkas")
-![64 quokkas](samples/sample2.png "64 quokkas")
+![](samples/sample1.png)
+![](samples/sample2.png )
 
 More than recognization and detection, this CNN could read the analog watch!
 
